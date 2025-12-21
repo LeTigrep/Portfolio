@@ -384,7 +384,7 @@ function Experiences() {
         company="Sopra Steria"
         role="Ingénieur logiciels"
         period="Avril 2025 – Septembre 2025"
-        description={`Enovyé en tant que consultant chez CS GROUP, est une entreprise française spécialisée dans les systèmes critiques, la défense, la cybersécurité et l’aérospatial.
+        description={`Envoyé en tant que consultant chez CS GROUP, est une entreprise française spécialisée dans les systèmes critiques, la défense, la cybersécurité et l’aérospatial.
 Au sein de la Business Unit Défense & Sécurité, j’ai participé au développement d’un outil stratégique permettant la génération automatique de scénarios de tests pour la validation du sous-système radio.`}
         bullets={[
           "Développement d’un outil en Python pour automatiser des scénarios complexes",
