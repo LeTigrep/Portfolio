@@ -1,16 +1,40 @@
-# React + Vite
+# Portfolio – Ghiles Chekir
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ce dépôt contient le code source de mon portfolio personnel, développé afin de présenter mon profil, mon parcours académique et mes expériences professionnelles en ingénierie logicielle.
 
-Currently, two official plugins are available:
+Le site met en avant :
+- Une présentation générale de mon profil
+- Mes compétences techniques
+- Mes diplômes et certifications
+- Mes expériences professionnelles
+- Mes projets académiques et hackathons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Le portfolio est conçu comme une vitrine technique et visuelle, avec une attention particulière portée à l’ergonomie, au design et à la clarté des informations.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies utilisées
 
-## Expanding the ESLint configuration
+### Front-end
+- React
+- JavaScript
+- HTML5
+- CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Outils & écosystème
+- Vite
+- Git & GitHub
+- GitHub Pages (déploiement)
+
+---
+
+## Déploiement
+
+Le site est déployé via GitHub Pages.
+---
+
+## Objectif du projet
+
+Ce portfolio a pour objectif de permettre aux recruteurs et professionnels du numérique d’avoir une vision claire de mon profil technique, de mes expériences et de mes projets.
+
+---
