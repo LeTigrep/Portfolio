@@ -9,6 +9,7 @@ import SocialMedia from "./projects/social-media.png";
 import osm from "./projects/osm.png";
 import bataille from "./projects/bataille-navale.png";
 import bibliotheque from "./projects/bibliotheque.png";
+import sopra from "./projects/sopra.png";
 
 // Tu pourras créer ces deux fichiers dans src/projects/
 import cafeWayImg from "./projects/cafe-way-of-life.png";
@@ -380,10 +381,10 @@ function Experiences() {
     <div className="exp-timeline">
       <ExperienceCard
         companyShort="CS"
-        company="CS GROUP"
+        company="Sopra Steria"
         role="Ingénieur logiciels"
         period="Avril 2025 – Septembre 2025"
-        description={`CS GROUP est une entreprise française spécialisée dans les systèmes critiques, la défense, la cybersécurité et l’aérospatial.
+        description={`Enovyé en tant que consultant chez CS GROUP, est une entreprise française spécialisée dans les systèmes critiques, la défense, la cybersécurité et l’aérospatial.
 Au sein de la Business Unit Défense & Sécurité, j’ai participé au développement d’un outil stratégique permettant la génération automatique de scénarios de tests pour la validation du sous-système radio.`}
         bullets={[
           "Développement d’un outil en Python pour automatiser des scénarios complexes",
@@ -393,7 +394,7 @@ Au sein de la Business Unit Défense & Sécurité, j’ai participé au dévelop
           "Collaboration régulière avec des équipes techniques basées en Roumanie",
         ]}
         impact="Résultats : Amélioration d’environ 40 % de la productivité sur les scénarios automatisés."
-        logo={csLogo}
+        logo={sopra}
       />
 
       <ExperienceCard
