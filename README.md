@@ -31,7 +31,7 @@ Le portfolio est conçu comme une vitrine technique et visuelle, avec une attent
 ## Déploiement
 
 Le site est déployé via GitHub Pages.
----
+
 
 ## Objectif du projet
 
