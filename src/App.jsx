@@ -397,27 +397,9 @@ Au sein de la Business Unit Défense & Sécurité, j’ai participé au dévelop
         logo={sopra}
       />
 
+
+
       <ExperienceCard
-        companyShort="USPN"
-        company="Université Sorbonne Paris Nord"
-        role="Mentor technique Programmation & Réseaux"
-        period="Septembre 2023 – Février 2025"
-        description={`Dans le cadre du département informatique de l’Université Sorbonne Paris Nord, j’ai assuré un rôle de mentor auprès d’étudiants de différentes promotions.
-L’objectif du programme était de renforcer leurs compétences techniques en programmation, systèmes et réseaux, en les accompagnant sur leurs travaux pratiques et projets.`}
-        bullets={[
-          "Assistance personnalisée aux étudiants sur des projets et exercices pratiques en C, Python et Java",
-          "Explication des architectures et configuration des protocoles de communication (TCP/IP, UDP, modèle OSI)",
-          "Vulgarisation des concepts complexes (automates et complexité algorithmique)",
-          "Aide individualisée et suivi des étudiants pour favoriser la montée en compétences",
-        ]}
-        impact="Résultats : 100 % de réussite des étudiants suivis sur les modules concernés."
-        logo={uspnLogo}
-      />
-
-
-
-
-        <ExperienceCard
         companyShort="USPN"
         company=" Pleine commune"
         role="Administrateur Système et réseau - Jeux Olympiques Paris 2024"
@@ -441,8 +423,22 @@ L’objectif du programme était de renforcer leurs compétences techniques en p
       />
 
 
-
-
+      <ExperienceCard
+        companyShort="USPN"
+        company="Université Sorbonne Paris Nord"
+        role="Mentor technique Programmation & Réseaux"
+        period="Septembre 2023 – Février 2025"
+        description={`Dans le cadre du département informatique de l’Université Sorbonne Paris Nord, j’ai assuré un rôle de mentor auprès d’étudiants de différentes promotions.
+L’objectif du programme était de renforcer leurs compétences techniques en programmation, systèmes et réseaux, en les accompagnant sur leurs travaux pratiques et projets.`}
+        bullets={[
+          "Assistance personnalisée aux étudiants sur des projets et exercices pratiques en C, Python et Java",
+          "Explication des architectures et configuration des protocoles de communication (TCP/IP, UDP, modèle OSI)",
+          "Vulgarisation des concepts complexes (automates et complexité algorithmique)",
+          "Aide individualisée et suivi des étudiants pour favoriser la montée en compétences",
+        ]}
+        impact="Résultats : 100 % de réussite des étudiants suivis sur les modules concernés."
+        logo={uspnLogo}
+      />
 
 
 
