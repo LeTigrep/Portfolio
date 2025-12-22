@@ -1,5 +1,5 @@
 import React from "react";
-import csLogo from "./logo/cs.png";
+
 import uspnLogo from "./logo/uspn.png";
 import pxLogo from "./logo/px.png";
 
@@ -10,8 +10,8 @@ import osm from "./projects/osm.png";
 import bataille from "./projects/bataille-navale.png";
 import bibliotheque from "./projects/bibliotheque.png";
 import sopra from "./projects/sopra.png";
+import pleine from "./projects/pleine.png";
 
-// Tu pourras créer ces deux fichiers dans src/projects/
 import cafeWayImg from "./projects/cafe-way-of-life.png";
 import rootmeImg from "./projects/root-me.png";
 
@@ -384,7 +384,7 @@ function Experiences() {
         company="Sopra Steria"
         role="Ingénieur logiciels"
         period="Avril 2025 – Septembre 2025"
-        description={`Envoyé en tant que consultant chez CS GROUP, est une entreprise française spécialisée dans les systèmes critiques, la défense, la cybersécurité et l’aérospatial.
+        description={`Envoyé en tant que consultant chez CS GROUP qui est une entreprise française spécialisée dans les systèmes critiques, la défense, la cybersécurité et l’aérospatial.
 Au sein de la Business Unit Défense & Sécurité, j’ai participé au développement d’un outil stratégique permettant la génération automatique de scénarios de tests pour la validation du sous-système radio.`}
         bullets={[
           "Développement d’un outil en Python pour automatiser des scénarios complexes",
@@ -413,6 +413,38 @@ L’objectif du programme était de renforcer leurs compétences techniques en p
         impact="Résultats : 100 % de réussite des étudiants suivis sur les modules concernés."
         logo={uspnLogo}
       />
+
+
+
+
+        <ExperienceCard
+        companyShort="USPN"
+        company=" Pleine commune"
+        role="Administrateur Système et réseau - Jeux Olympiques Paris 2024"
+        period="Juillet 2024 – Septembre 2024"
+        description={`Expérience en administration systèmes au sein de Plaine Commune lors des
+        Jeux Olympiques Paris 2024, avec participation à la gestion des
+        infrastructures IT, au support utilisateurs et à la sécurisation des postes de
+        travail pendant un événement d’envergure internationale.`}
+        bullets={[
+          "Administration des systèmes et des infrastructures",
+          "Gestion des utilisateurs, groupes et permissions via Active Directory",
+          "Configuration et maintenance des postes Windows 10 / 11",
+          "Bases en réseaux : TCP/IP, DNS, DHCP",
+          "Assister et former les utilisateurs",
+          "Automatisation simple et scripts : PowerShel et Bash",
+          "Travail en environnement critique et sous contrainte événementiele"
+        ]}
+        impact="réduction d’environ 30 % du temps de résolution des incidents
+        grâce au support utilisateurs et à l’administration des systèmes"
+        logo={pleine}
+      />
+
+
+
+
+
+
 
       <ExperienceCard
         companyShort="PX"
