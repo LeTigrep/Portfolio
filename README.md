@@ -1,4 +1,4 @@
-# Portfolio – Ghiles Chekir
+# Mon portfolio – 
 
 Ce dépôt contient le code source de mon portfolio personnel, développé afin de présenter mon profil, mon parcours académique et mes expériences professionnelles en ingénierie logicielle.
 
